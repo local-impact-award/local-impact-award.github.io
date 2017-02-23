@@ -1,6 +1,4 @@
-# Local Impact Award
-
-## Think Local Act Local
+# Local Impact Award - Think Local Act Local
 The local impact award is given to people that improve the quality of living, the environment, or address social responsibilities locally.
 
 ## Specific Needs Deserve Specific Solutions
