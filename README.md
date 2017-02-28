@@ -11,3 +11,6 @@ Many issues are best addressed globally. However, your community has specific ne
 * Expanding local knowledge: by addressing problems locally we grow the local knowledge base. 
 * Saving resources: sourcing knowledge and material locally saves the cost of moving them around 
 
+## Events
+
+[Design for KAUST](http://www.local-impact-award.com/design-for-kaust/)
