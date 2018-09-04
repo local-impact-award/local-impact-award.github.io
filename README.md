@@ -13,4 +13,4 @@ Many issues are best addressed globally. However, your community has specific ne
 
 ## Events
 
-[Design for KAUST](http://www.local-impact-award.com/design-for-kaust/)
+[Design for KAUST](https://local-impact-award.github.io/design-for-kaust/)
